@@ -148,6 +148,33 @@ box-shadow: 10px 10px rgb(96, 98, 98);
   }
 
 
+  @media only screen and (max-width:390px) {
+    .nav-buttons{
+     font-size: 25px;
+  }
+
+  }
+
+  @media only screen and (max-width:300px) {
+    .nav-buttons{
+     font-size: 20px;
+  }
+
+  }
+  @media only screen and (max-width:326px) {
+    .nav-buttons{
+     font-size: 15px;
+  }
+
+  }
+
+
+  @media only screen and (max-width:390px) {
+    .footer{
+     font-size: 15px;
+  }
+
+  }
 
 
   
